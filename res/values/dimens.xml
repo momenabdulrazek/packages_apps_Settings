@@ -466,4 +466,7 @@
 
     <!-- An arbitrarily large number to make the max size fit the parent -->
     <dimen name="animation_max_size">1000dp</dimen>
+
+    <!-- Dashboard foreground image size -->
+    <dimen name="dashboard_tile_foreground_image_size_pers">24dp</dimen>
 </resources>
