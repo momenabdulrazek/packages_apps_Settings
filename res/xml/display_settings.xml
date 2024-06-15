@@ -50,6 +50,11 @@
             android:fragment="com.android.settings.accessibility.ToggleReduceBrightColorsPreferenceFragment"
             settings:controller="com.android.settings.accessibility.ReduceBrightColorsPreferenceController"/>
 
+        <SwitchPreferenceCompat
+            android:key="even_dimmer_activated"
+            android:title="@string/even_dimmer_display_title"
+            android:summary="@string/even_dimmer_display_summary"
+            settings:controller="com.android.settings.display.EvenDimmerPreferenceController"/>
     </PreferenceCategory>
 
     <PreferenceCategory
