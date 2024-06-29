@@ -205,7 +205,7 @@
         <attr name="maxI" format="float" />
         <attr name="defaultValuePure" format="float" />
         <attr name="digits" format="integer" />
-
+    </declare-styleable>
     <!-- For BackgroundPreference -->
     <declare-styleable name="BackgroundPreference">
         <attr name="background" format="reference" />
