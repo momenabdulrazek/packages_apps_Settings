@@ -477,4 +477,9 @@ public class AdvancedPowerUsageDetailTest {
     public void shouldSkipForInitialSUW_returnTrue() {
         assertThat(mFragment.shouldSkipForInitialSUW()).isTrue();
     }
+
+    @Test
+    public void shouldSkipForInitialSUW_returnTrue() {
+        assertThat(mFragment.shouldSkipForInitialSUW()).isTrue();
+    }
 }
