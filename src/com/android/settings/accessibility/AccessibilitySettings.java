@@ -22,7 +22,6 @@ import android.app.settings.SettingsEnums;
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.pm.ActivityInfo;
-import android.content.pm.ServiceInfo;
 import android.hardware.input.InputManager;
 import android.os.Bundle;
 import android.os.Handler;
